@@ -10,7 +10,7 @@ struct Territorio {
     int tropas;
 };
 
-// funções
+// Funções
 void limparBuffer();
 void cadastrarTerritorio(struct Territorio* territorio, int indice);
 void listarTerritorios(struct Territorio* mapa, int totalTerritorios);
